@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lavanya Yadav</h1>
-<h3 align="center">Learning Data Science Futire Analyst from India</h3>
+<h3 align="center">Learning Data Science Future Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanyayada112&label=Profile%20views&color=0e75b6&style=flat" alt="lavanyayada112" /> </p>
 
